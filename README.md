@@ -12,15 +12,12 @@ https://ankitasaurav.github.io/PigGame.github.io/
 
 ## Screenshots
 
-(![Screenshot (9)](https://user-images.githubusercontent.com/87561020/131494528-d831cdbf-0888-4906-afd9-8170db9354cc.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/87561020/131494528-d831cdbf-0888-4906-afd9-8170db9354cc.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/87561020/131494553-05bd6aa6-6525-4207-9c61-c55b81842f24.png)
-
-
 
 ## 🛠 Technologies
 HTML, CSS and JavaScript 
 
-  
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-saurav/?originalSubdomain=in)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sauravankita)
