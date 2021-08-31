@@ -12,8 +12,9 @@ https://ankitasaurav.github.io/PigGame.github.io/
 
 ## Screenshots
 
-![App Screenshot](![Screenshot (9)](https://user-images.githubusercontent.com/87561020/131494176-fe366fe4-8e0e-4f40-ac04-771df19b6a40.png)![Screenshot (13)](https://user-images.githubusercontent.com/87561020/131494198-1d7805f4-150f-4bef-b820-c087744d94d6.png)
-)
+(https://user-images.githubusercontent.com/87561020/131494176-fe366fe4-8e0e-4f40-ac04-771df19b6a40.png)
+(https://user-images.githubusercontent.com/87561020/131494198-1d7805f4-150f-4bef-b820-c087744d94d6.png)
+
 
 ## 🛠 Technologies
 HTML, CSS and JavaScript 
