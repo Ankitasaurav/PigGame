@@ -8,6 +8,7 @@
 Note: This game is a part of my javascript course, created by @jonasschmedtmann on Udemy.
 
 You can play this game by clicking on the link.
+
 https://ankitasaurav.github.io/PigGame.github.io/
 
 ## Screenshots
